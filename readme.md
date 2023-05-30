@@ -1,0 +1,1 @@
+bash <(curl -s https://raw.githubusercontent.com/pandorarp/nodeinstaller/main/node.sh)
